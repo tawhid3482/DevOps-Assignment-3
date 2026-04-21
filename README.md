@@ -165,9 +165,9 @@ sudo systemctl reload nginx
 
 ## Access URLs
 
-* HTTP: `http://your-server-ip`
-* HTTPS: `https://your-server-ip`
-* Backend API: `https://your-server-ip/api`
+* HTTP: [`http://your-server-ip`](https://52.77.255.14/)
+* HTTPS: [`https://your-server-ip`](https://52.77.255.14/)
+* Backend API: [`https://your-server-ip/api`](https://52.77.255.14/api)
 
 ---
 
@@ -206,7 +206,7 @@ The following screenshots show the required verification steps:
 
 ## Submission
 
-* GitHub repository link
+* GitHub repository link: https://github.com/tawhid3482/DevOps-Assignment-3
 * Complete `README.md`
 * Nginx configuration file
 * Screenshots
